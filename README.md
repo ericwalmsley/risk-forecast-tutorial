@@ -29,14 +29,10 @@ Weather
 ## Fire Size Potential
 **Maps below do not consider any suppression efforts.** Areas with no fire size potential (colored squares) are less likely to ignite due to high fuel moisture or non-burnable fuel types.
 
-<div class="row">
-  <div class="column">
-    <img src=https://i.lensdump.com/i/g8dTum.png alt="Snow" style="width:100%">
-  </div>
-  <div class="column">
-    <img src=https://i3.lensdump.com/i/g8dRmP.png alt="Forest" style="width:100%">
-  </div>
-</div>
+
+<img src=https://i.lensdump.com/i/g8dTum.png alt="Snow" style="width:100%">
+
+<img src=https://i3.lensdump.com/i/g8dRmP.png alt="Forest" style="width:100%">
 
 
 ## Weather Data
